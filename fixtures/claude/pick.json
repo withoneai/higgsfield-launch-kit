@@ -1,0 +1,9 @@
+{
+  "winner": "lifestyle",
+  "reason": "The lifestyle still is the only one where the label reads cleanly and the light actually comes from a window: a soft shadow falls left off the bag and the copper jug picks up the warm side light, which is exactly the brief's 8am kitchen. It also has calm space above the bag, so a slow push-in will not crop anything that matters.",
+  "notes": [
+    { "id": "studio", "note": "Clean and on-palette, but the backdrop drifts toward grey on the right and the light is flat, so it reads as a catalog cutout rather than this brand." },
+    { "id": "lifestyle", "note": "Label legible, logo intact, oak and linen read as real surfaces, one copper accent. Best fit to the brief." },
+    { "id": "hero", "note": "Good headline space, but the bag is small in frame and the hill logo softens at that size; strong as a banner, weak as the one asset to animate." }
+  ]
+}

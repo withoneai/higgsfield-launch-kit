@@ -1,0 +1,8 @@
+{
+  "status": "completed",
+  "request_id": "fixture-lifestyle",
+  "status_url": "https://platform.higgsfield.ai/requests/fixture-lifestyle/status",
+  "cancel_url": "https://platform.higgsfield.ai/requests/fixture-lifestyle/cancel",
+  "images": [{ "url": "fixtures/media/still-2.jpg" }],
+  "video": null
+}

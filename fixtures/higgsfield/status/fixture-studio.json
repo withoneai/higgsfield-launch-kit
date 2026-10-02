@@ -1,0 +1,8 @@
+{
+  "status": "completed",
+  "request_id": "fixture-studio",
+  "status_url": "https://platform.higgsfield.ai/requests/fixture-studio/status",
+  "cancel_url": "https://platform.higgsfield.ai/requests/fixture-studio/cancel",
+  "images": [{ "url": "fixtures/media/still-1.jpg" }],
+  "video": null
+}

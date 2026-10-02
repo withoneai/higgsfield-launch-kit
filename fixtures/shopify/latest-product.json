@@ -1,0 +1,25 @@
+{
+  "data": {
+    "products": {
+      "nodes": [
+        {
+          "id": "gid://shopify/Product/8841207193650",
+          "title": "Night Shift Espresso, 340g",
+          "handle": "night-shift-espresso",
+          "description": "Our new house espresso. A washed Colombian from the Huila highlands blended with a natural Ethiopian Guji, roasted a touch past medium so it holds up in milk. Dark chocolate and stewed cherry up front, a long cocoa finish. Whole bean, 340g, in our matte kraft bag with the copper hill on the front. Roasted on Tuesdays in small batches, shipped the same week.",
+          "featuredMedia": {
+            "preview": {
+              "image": {
+                "url": "fixtures/media/product.jpg",
+                "altText": "Matte kraft coffee bag with a copper hill logo, labelled Night Shift Espresso"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "cost": { "requestedQueryCost": 4, "actualQueryCost": 3 }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "higgsfield-launch-kit",
+  "version": "1.0.0",
+  "description": "A launch kit for a new product: one Shopify product in, a shot list from Claude, three Higgsfield stills that keep the real product, the best one animated, all in a Google Drive folder for review. Built on One.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "tsx src/check.ts",
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "@withone/sdk": "^0.0.4",
+    "dotenv": "^16.4.5",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}
