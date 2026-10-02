@@ -21,10 +21,13 @@ npm start
 ```
 
 With no keys in the environment, the same pipeline runs against recorded data
-for a fictional roaster's new espresso: a recorded Shopify read, a recorded
+for a fictional roaster's new single origin: a recorded Shopify read, a recorded
 shot list and pick from Claude, and recorded Higgsfield generations (real image
 and video files in `fixtures/media/`). Every recorded answer is labelled
-`[fixture output]` in the log. Schema validation, the gates, the credit guard
+`[fixture output]` in the log. The recorded stills and clip are real
+Higgsfield generations made from the exact prompts in
+`fixtures/claude/shotlist.json` (Nano Banana Pro for the stills, Kling 3.0
+Turbo for the clip), conditioned on `fixtures/media/product.jpg`. Schema validation, the gates, the credit guard
 and the run folder all work exactly as they do live. The run writes
 everything to `out/<timestamp>-<product>/` and prints the Slack summary it
 would have posted.
@@ -120,7 +123,7 @@ model, how many, how long) rather than guessing a dollar figure.
 ## The thing that is easy to get wrong
 
 **Text-to-image will not give you your product.** Ask an image model for "a
-kraft coffee bag with a copper hill logo" and you get a nice bag that is not
+kraft coffee bag labelled LOWLAND ROASTERS" and you get a nice bag that is not
 yours, with a label that almost spells your name. Every still here goes through
 an image-conditioned model (Nano Banana with the product photo as an input
 image, or Reve edit on the photo itself), and both the prompts and the judging

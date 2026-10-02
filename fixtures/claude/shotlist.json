@@ -1,5 +1,5 @@
 {
-  "product_read": "A new house espresso from a two-person roastery: the assets have to show the real kraft bag in an honest kitchen-morning light and make it feel made by hand, not marketed.",
+  "product_read": "A new light-roast single origin from a two-person roastery: the assets have to show the real kraft bag in an honest kitchen-morning light and make it feel made by hand, not marketed.",
   "stills": [
     {
       "id": "studio",
@@ -7,7 +7,7 @@
       "use": "shop product page, square gallery image",
       "model": "reve-edit",
       "aspect_ratio": "1:1",
-      "prompt": "Edit this product photo: keep the coffee bag exactly as it is, same position, same packaging, label text and copper hill logo untouched and fully legible. Replace the background with an off-white (#EFE6D8) seamless paper sweep, add soft natural window light from the left with a gentle directional shadow falling right, and place five or six roasted beans at the base. Matte surfaces only. Avoid: pure white or grey backdrop, glossy reflections, steam, splashes, flying beans, gradients."
+      "prompt": "Edit this product photo: keep the coffee bag exactly as it is, same position, same packaging, the LOWLAND ROASTERS label untouched and fully legible. Replace the background with an off-white (#EFE6D8) seamless paper sweep, add soft natural window light from the left with a gentle directional shadow falling right, and place five or six roasted beans at the base. Matte surfaces only. Avoid: pure white or grey backdrop, glossy reflections, steam, splashes, flying beans, gradients."
     },
     {
       "id": "lifestyle",
@@ -15,7 +15,7 @@
       "use": "Instagram feed post and product page gallery, portrait",
       "model": "nano-banana",
       "aspect_ratio": "4:5",
-      "prompt": "The coffee bag from the reference image on a worn oak kitchen counter at 8am, next to a ceramic espresso cup with a speckled thumbprint glaze and a folded linen towel. Keep the packaging, label text and copper hill logo exactly as in the reference image. Low side light from a kitchen window on the right, warm and soft, long gentle shadows. A copper milk jug at the edge of frame as the single warm accent. Palette of kraft brown, roast brown and off-white. Shallow depth of field, calm composition with space above the bag. Avoid: hands, people, latte art, steam effects, neon, glossy surfaces."
+      "prompt": "The coffee bag from the reference image on a worn oak kitchen counter at 8am, next to a ceramic coffee cup with a speckled thumbprint glaze and a folded linen towel. Keep the packaging and the LOWLAND ROASTERS label exactly as in the reference image. Low side light from a kitchen window on the right, warm and soft, long gentle shadows. A copper milk jug at the edge of frame as the single warm accent. Palette of kraft brown, roast brown and off-white. Shallow depth of field, calm composition with space above the bag. Avoid: hands, people, latte art, steam effects, neon, glossy surfaces."
     },
     {
       "id": "hero",
@@ -23,7 +23,7 @@
       "use": "homepage hero banner and the weekly email header",
       "model": "nano-banana",
       "aspect_ratio": "21:9",
-      "prompt": "Wide banner photograph. The coffee bag from the reference image sits on the right third of a long oak shelf against a warm off-white (#EFE6D8) plaster wall, with the left two thirds left as clean, softly lit empty wall for a headline. Keep the packaging, label text and copper hill logo exactly as in the reference image. Low golden side light from the right casting a soft copper-tinted glow across the wall. One small ceramic cup beside the bag, nothing else. Avoid: clutter, gradients, pure white, sparkles, beans in the air, any text in the image."
+      "prompt": "Wide banner photograph. The coffee bag from the reference image sits on the right third of a long oak shelf against a warm off-white (#EFE6D8) plaster wall, with the left two thirds left as clean, softly lit empty wall for a headline. Keep the packaging and the LOWLAND ROASTERS label exactly as in the reference image. Low golden side light from the right casting a soft copper-tinted glow across the wall. One small ceramic cup beside the bag, nothing else. Avoid: clutter, gradients, pure white, sparkles, beans in the air, any text in the image."
     }
   ],
   "motion": {

@@ -57,7 +57,7 @@ export function toGid(id: string): string {
 
 /**
  * Read one product: the id you pass, or the most recently created one. The
- * fixture is a recorded response for a fictional roaster's new espresso.
+ * fixture is a recorded response for a fictional roaster's new single origin.
  */
 export async function readProduct(productId?: string): Promise<Product> {
   if (productId) {

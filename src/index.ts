@@ -35,7 +35,7 @@ console.log(
 );
 if (!DRY_RUN && !Object.values(live).some(Boolean)) {
   console.log("   No keys found, so every source replays fixtures/: a fictional roaster's new");
-  console.log("   espresso, a recorded shot list, recorded generations. Same pipeline, same gates.");
+  console.log("   single origin, a recorded shot list, recorded generations. Same pipeline, same gates.");
   console.log("   Copy .env.example to .env to run it on your store.");
 }
 console.log("");

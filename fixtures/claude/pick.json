@@ -1,9 +1,18 @@
 {
   "winner": "lifestyle",
-  "reason": "The lifestyle still is the only one where the label reads cleanly and the light actually comes from a window: a soft shadow falls left off the bag and the copper jug picks up the warm side light, which is exactly the brief's 8am kitchen. It also has calm space above the bag, so a slow push-in will not crop anything that matters.",
+  "reason": "The lifestyle still is the only one that reads as this brand's 8am kitchen: low window light from the right, the copper jug as the single warm accent, a thumbprint-glazed cup and a linen towel on worn oak. The LOWLAND ROASTERS label is legible and straight, and there is calm space above the bag, so a slow push-in will not crop anything that matters.",
   "notes": [
-    { "id": "studio", "note": "Clean and on-palette, but the backdrop drifts toward grey on the right and the light is flat, so it reads as a catalog cutout rather than this brand." },
-    { "id": "lifestyle", "note": "Label legible, logo intact, oak and linen read as real surfaces, one copper accent. Best fit to the brief." },
-    { "id": "hero", "note": "Good headline space, but the bag is small in frame and the hill logo softens at that size; strong as a banner, weak as the one asset to animate." }
+    {
+      "id": "studio",
+      "note": "Clean and on-palette, label sharp, beans at the base as briefed. Strong for the product page, but it is a catalog shot with no sense of place, so it is the weaker one to spend a video on."
+    },
+    {
+      "id": "lifestyle",
+      "note": "Label legible, oak and linen read as real surfaces, one copper accent, side light with direction. Best fit to the brief."
+    },
+    {
+      "id": "hero",
+      "note": "Good headline space on the left and the warm wall light is right, but the bag is small in frame and the label's small type softens at that size; strong as a banner, weak as the one asset to animate."
+    }
   ]
 }
